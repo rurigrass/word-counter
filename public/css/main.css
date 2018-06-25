@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background-color: orange;
+}
+
+h1 {
+  color: blue;
+}
+
+#wordInput {
+  font-size: 50%;
+  width: 300px;
+  height: 50px;
+}
+
+img {
+  outline-style: dashed;
+  color: dodgerBlue;
+}
